@@ -315,12 +315,6 @@ This project builds on and extends:
    - Systematic evaluation of all modality combinations
    - Identify minimal modality sets for deployment efficiency
 
-### Long-Term Research Directions
-
-1. **Transfer Learning**: Pre-train on multiple datasets, fine-tune on target domain
-2. **Domain Adaptation**: Explicit alignment of tool distributions
-3. **Active Learning**: Intelligently select samples from new tools for annotation
-4. **Anomaly Detection**: Extend reconstruction-based methods for unsupervised wear detection
 
 ### Original Minape architecture:
 
