@@ -1,0 +1,78 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+env/
+
+# Cache directories
+.cache/
+.local/
+.config/
+.npm/
+.npm-global/
+.npmrc
+.wget-hsts
+_update-notifier-last-checked
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# Dataset and large files
+Nonastreda_Multimodal/
+*.mat
+*.csv
+*.jpg
+*.jpeg
+*.png
+
+# Checkpoints and models
+checkpoints*/
+*.pth
+*.pt
+best_model*.pth
+
+# Results
+results*/
+*.png
+cv_results.csv
+confusion_matrix*.png
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+*~
